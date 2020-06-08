@@ -4,9 +4,15 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
+
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+  <div className= "main">
+    <App name = "Car"/>
+    <App name = "Van"/>
+    <App name = "MotorCycle"/>
+    <App name = "Bike"/>
+    </div>
   </React.StrictMode>,
   document.getElementById('root')
 );
