@@ -2,7 +2,5 @@ To run the app clone the repo on master branch and then run npm start. The serve
 
 Note: You need to have node installed on your machine
 
-https://us04web.zoom.us/j/9032042276?pwd=eXpKU1RvY1BJSU16Q2FqU25WTzByZz09
+https://us05web.zoom.us/j/3397328768?pwd=dVNMbVh1aGc0ZmVuY2F6QW1vZUM1dz09
 
-
-https://us04web.zoom.us/j/72826085148?pwd=-auBXlWyH_mfPpVRDNgDzTR9_Jy0VC.1
